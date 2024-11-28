@@ -1,0 +1,9 @@
+label{
+    font-weight: bold;
+}
+table{
+    width: 50vw !important;
+}
+.table-hover{
+    border: 1px solid grey;
+}
